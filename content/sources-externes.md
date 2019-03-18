@@ -20,3 +20,4 @@ title: "Sources externes"
 * Exemple d'histoire interactive par le NY Times https://www.nytimes.com/interactive/2017/07/25/sports/football/nfl-cte.html
 * Exemples de contenu texte/carte interactive (open source en plus), un article par le Financial Times. https://ig.ft.com/sites/special-reports/one-belt-one-road/
 * Pressbooks. https://pressbooks.com/
+* Vers un système modulaire de publication : dépôt Git du mémoire d'Antoine Fauchié, une mine d'or pour la publication numérique. https://github.com/livrenum/hybrilivre-recherche
