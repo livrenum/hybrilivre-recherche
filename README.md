@@ -4,7 +4,7 @@ Dépôt des documents de recherche pour un modèle de publication hybride numér
 
 ## Contenu
 
-Le contenu est écrit en **Markdown**. Les fichiers à éditer sont dans le dossier `content/`.
+Le contenu est écrit en **Markdown**. Les fichiers à éditer sont dans le dossier `contenus/`.
 
 ## Références Zotero
 
