@@ -9,12 +9,13 @@ title: "Sources externes"
 - [Une chaîne de publication inspirée du web](https://www.quaternum.net/2017/03/13/une-chaine-de-publication-inspiree-du-web/) - Billet de blogue d'Antoine Fauchié pour une chaîne de publication inspirée des pratiques du web, de l'écriture structurée jusqu'à l'output imprimé. `CC BY-SA`
 - [Building Books with CSS3](alistapart.com/article/building-books-with-css3) - Un article sur les feuilles de style du web, pour l’imprimé. Écrit par [Nellie McKesson](https://alistapart.com/author/nmckesson). `CSS`
 - [L'écriture collaborative en recherche et création](http://nicolassauret.net/carnet/2018/03/23/l-ecriture-collaborative-en-recherche-et-creation/) - Article de [Nicolas Sauret](http://nicolassauret.net), issu d’une présentation en collaboration avec Servanne Monjour. On parle d’éditorialisation (terme de [Marcello Vitali-Rosati](http://vitalirosati.com/)).
+- [_(Statut Twitter)_](https://twitter.com/antoinentl/status/991317685161152512) - Git pour tous types de processus (incl. légaux avec avocats).
 
 ## Outils et ingrédients du casse-tête
 
 - [Prince XML](https://www.princexml.com/) - Conversion `HTML` -> `PDF`. Logiciel propriétaire, mais version gratuite disponible (avec petit logo sur la première page du rendu). `$$$`
 - [Middleman Book Template](https://github.com/thegetty/middleman-book-template). `(aucune licence)` `Ruby`
-- [Substance](http://substance.io/) - Un outil pour produire du contenu riche pour le web.
+- [Substance](http://substance.io/) - Un outil pour produire du contenu riche pour le web. ([Code source](https://github.com/substance/substance)) `MIT` `NodeJS`
 - [ArchieML](http://archieml.org/) - Balisage hyper léger pour journalistes pressés : un outil pour rapatrier le contenu brut de Google Docs, par l’équipe du [NY Times](https://github.com/newsdev). « Structured text,
   for an unstructured world. » `Apache 2.0` `NodeJS` `ruby`
 - [Abrupt](https://abrupt.ch/colophon/#outils) - Une boîte à outils pour créer facilement un livre numérique ou papier. ([Code source](https://gitlab.com/cestabrupt/gabarit-abrupt)) `MIT`
@@ -42,3 +43,5 @@ title: "Sources externes"
 - [The Pudding](https://pudding.cool/) - Des essais visuels interactifs. Le code source est aussi disponible sur [GitHub](https://github.com/the-pudding). `MIT`
 - [Naufrages](https://abrupt.ch/beata-raoul/naufrages/) - Un « antilivre statique » (numérique), « un antilivre dynamique» (numérique aussi) et « dans [leur] échoppe » (papier). « Ce livre n’est pas un livre. Ce livre est un programme. » ([Code source](https://gitlab.com/cestabrupt/beata-raoul-naufrages)) `CC0 1.0 Universel`
 - [After the Storm](http://www.pbs.org/independentlens/interactive/after-the-storm/#/dear-future-disaster-survivor) - Bande dessinée à défilement interactif.
+- [Carte des hydrocarbures](http://www.ledevoir.com/documents/special/16-08_carte-hydrocarbures/index.html) - Exemple de carte interactive (Le Devoir utilisant le service propriétaire [Carto](https://carto.com/)).
+- [Candide BNF](https://candide.bnf.fr/livre) - Une édition hybride numérique à 2 colonnes : d'une part, le texte numérique, et d'autre part, la copie originale numérisée.
