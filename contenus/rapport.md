@@ -26,7 +26,7 @@ Manuscrit (1) --> Édition (2) --> Production (3) --> Distribution (4)
 
 Dans l’étape (1), l’auteur (l’« auteur » ou l’« autrice ») produit un text, généralement peu ou pas structuré sémantiquement. Un important travail de **mise en forme** est à faire lors de l’étape de l’édition (2) : le manuscrit est **complètement retranscrit** dans un le format utilisé par la maison d’édition (par exemple, avec le logiciel propriétaire Adobe InDesign). À ce moment, le texte existe déjà en deux copies indépendantes : le manuscrit original et la version mise en forme. Cela signifie que toute modification faite par l’auteur (ponctuelle ou étendue) doit à nouveau repasser par un geste de mise en forme manuelle par les éditeurs, ce qui consomme à chaque fois temps et argent. De plus, l’auteur est en quelque sorte « dépossédé » de sa création au stade d’édition. `[à continuer]`
 
-Constat : plusieurs chaînes éditoriales existent, selon les recettes secrètes propres à chaque maison d’édition. Elles les gardent jalousement pour elles, soit dans un esprit de compétition, soit, selon moi, pour ne pas exposer le processus douloureux. Dans tous les cas, on réinvente la roue à chaque fois. `[à poursuivre]` Tant de solutions pour un seul et même but : faire des livres.
+Constat : plusieurs chaînes éditoriales existent, selon les recettes secrètes propres à chaque maison d’édition. Elles les gardent jalousement pour elles, soit dans un esprit de compétition, soit, selon moi, pour ne pas exposer le processus douloureux et compliqué. Dans tous les cas, on réinvente la roue à chaque fois. `[à poursuivre]` Tant de solutions pour un seul et même but : faire des livres.
 
 ### Problème d'accord fond-forme : le format numérique, tendon d'achille
 
