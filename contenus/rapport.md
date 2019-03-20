@@ -1,5 +1,5 @@
 ---
-title: "Plan du rapport"
+title: "Rapport"
 ---
 
 [TOC]
@@ -16,7 +16,7 @@ Comment produire une publication innovante tout en préservant l’héritage du 
 
 ## Défi : créer une publication hybride innovante
 
-L’idée, que j’emprunte à Antoine Fauchié, c’est de concevoir une [chaîne de publication inspirée du web](https://www.quaternum.net/2017/03/13/une-chaine-de-publication-inspiree-du-web/).
+L’idée, que j’emprunte à Antoine Fauchié, c’est de concevoir une [chaîne de publication inspirée du web](https://www.quaternum.net/2017/03/13/une-chaine-de-publication-inspiree-du-web/). Concevoir une publication avec les outils du web pour une édition ouverte, multiformat, collaborative et suffisamment robuste pour être à l’épreuve du future.
 
 ### Les problèmes des chaînes de publications existantes
 
@@ -28,7 +28,7 @@ Peut-on imaginer un système permettant de passer aisément du manuscrit au prod
 
 ### Problème d'accord fond-forme : le format numérique, tendon d'achille
 
-## Quelles solutions existent déjà en place?
+## Quelles solutions exitent déjà?
 
 ### Comment résolvent-elles les problèmes de la publication numérique?
 
@@ -38,7 +38,7 @@ Peut-on imaginer un système permettant de passer aisément du manuscrit au prod
 
 Une bonne partie de la réponse se trouve dans le [billet](https://www.quaternum.net/2017/03/13/une-chaine-de-publication-inspiree-du-web/) d'Antoine Fauchié : _Une chaîne de production inspirée du web_.
 
-L'idée, c'est d'employer des **technologies ouvertes** et **transaprentes** qui permettent la **collaboration**, le **versionnement** et une **production multisortie** (en plusieurs **formats**).
+L'idée, c'est d'employer des **technologies ouvertes** et **transparentes** qui permettent la **collaboration** et le **versionnement**, qui permettent la **production multisortie** (c’est-à-dire en plusieurs **formats**) et la **publication**.
 
 > Plutôt que de travailler sur une même plateforme fermée et limitée, ou plutôt que d’échanger des fichiers avec des numéros de version rapidement incompréhensibles, un fonctionnement plus logique est de _versionner_ […]
 >
@@ -64,15 +64,15 @@ Travailler avec les technologies web ne signifie pas qu'il faut s'en tenir à ce
 
 ### Publier
 
-L'idée d'utiliser le **langage du web pour publier**, c'est parce que c'est un format **standard**, très répandu et qui va de pair avec l'**URL** _(Universal Resource Locator)_ : n'importe qui peut accéder au contenu via le [**lien**](https://www.theguardian.com/technology/2019/mar/12/tim-berners-lee-on-30-years-of-the-web-if-we-dream-a-little-we-can-get-the-web-we-want).
+L'idée d'utiliser le **langage du web pour publier**, c'est parce que c'est un format **standard**, très répandu et qui va de pair avec l'**URL** _(Universal Resource Locator)_ : n'importe qui peut accéder au contenu via le [lien](https://www.theguardian.com/technology/2019/mar/12/tim-berners-lee-on-30-years-of-the-web-if-we-dream-a-little-we-can-get-the-web-we-want).
 
 > The crucial thing is the URL. The crucial thing is that you can link to anything.
 >
 > Tim Berners-Lee
 
-Quiconque avec un téléphone portable, un ordinateur de bureau, une montre inteligente, une télévision connectée ou même un frigo peut accéder au web.
+Ce sur quoi insiste tant Tim Berners-Lee, l’inventeur du web, c’est le caractère foncièrement publique de l’URL. Avec l'URL, les contenus ne sont (_a priori_) pas enfermés dans un lieu physique ou dans une application propriétaire, par exemple. L'URL doit nécessairement pointer vers une référence publique. comme composante fondamentale du web. 
 
-Avec l'URL, les contenus ne sont (_a priori_) pas enfermés dans un lieu physique ou dans une application propriétaire, par exemple. L'URL doit nécessairement pointer vers une référence publique.
+Quiconque avec un téléphone portable, un ordinateur de bureau, une montre inteligente, une télévision connectée ou même un frigo peut accéder au web via l’URL.
 
 ### L'adaptation d'une solution existante : Getty Publications 
 
