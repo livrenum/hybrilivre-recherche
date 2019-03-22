@@ -4,23 +4,31 @@ title: "Rapport"
 
 [TOC]
 
-## Introduction : contexte du projet et de la publication numérique
+## Contexte du projet
 
-Le projet est né du colloque [ÉCRiDiL](http://ecridil.ex-situ.info/) à Montréal les 30 avril et 1<sup>er</sup> mai 2018. L’objectif était de rassembler des connaissances qui y ont été présentées afin d’en produire un **acte de colloque innovant**, en ligne avec le sujet des conférences (« Le livre, défi de design : l’intersection de la création et de l’édition »).
+Le projet est né à la suite du colloque [ECRIDIL](http://ecridil.ex-situ.info/) tenu à Montréal les 30 avril et 1<sup>er</sup> mai 2018, avec comme objectif de rassembler les connaissances qui y ont été présentées pour produire un **acte de colloque innovant**, en ligne avec le titre de l’événement : *Le livre, défi de design : l’intersection de la création et de l’édition*.
 
->Le colloque ECRiDiL étudie sans les séparer les trois usages fondamentaux de la chaîne du livre (ÉCRire, éDIter,  Lire) à partir de la culture de l’innovation par le design, dans  l’esprit de l’innovation sociale et numérique.
+>Le colloque ECRIDIL étudie sans les séparer les trois usages fondamentaux de la chaîne du livre (ÉCRire, éDIter,  Lire) à partir de la culture de l’innovation par le design, dans  l’esprit de l’innovation sociale et numérique.
 
-![Colloque ECRiDiL 2018 (photo : Louis-Olivier Brassard)](colloque-ecridil-table.jpg)
+![Colloque ECRIDIL 2018 (photo : Louis-Olivier Brassard)](colloque-ecridil-table.jpg)
 
-Pour cette publication, on ne souhaitait pas simplement faire un acte de colloque traditionnel (comme [celui découlant de l’édition 2016 à Nîmes](https://desinnolivre.tumblr.com/)), dont le format peu attrayant et conçu selon les techniques plutôt « fermées » de l’imprimé ne serait absolument pas en phase avec le caractère innovant des idées présentées lors de l’événement; plutôt, l’ambition était de produire un ouvrage **ouvert**, intégrant une multitude de **contenus multimédias**, tout en conservant son caractère **scientifique** et en ayant un aspect **visuellement intéressant**. L’ouvrage devrait donc s’inscrire nativement dans les nouvelles **pratiques numériques**, mais sans délaisser l’**imprimé** – une version papier doit nous attendre au bout de la chaîne éditoriale. Bref, un autre de défi de design.
+Pour cette publication, nous ne souhaitions pas produire un simple acte de colloque traditionnel (comme [celui découlant de l’édition 2016 à Nîmes](https://desinnolivre.tumblr.com/)), dont le format peu attrayant et conçu selon les techniques plutôt « fermées » de l’imprimé ne serait pas du tout en phase avec le caractère innovant des idées des conférences. L’ambition est plutôt de produire un ouvrage :
 
-Comment produire une publication innovante tout en préservant l’héritage du codex, dont le paradigme traditionnel de la page est encore bien présent dans notre conception du « livre »? Le cadre technique de la « page » a-t-elle toujours sa place? Quel équilibre conserver entre linéarité textuelle et tabularité des contenus? Comment fabriquer un livre sans passer par un processus d’édition long et pénible?
+- **ouvert**, transparent autant dans la conception que dans la production et permettant la redistribution, voire la réappropriation par l’utilisateur, le lecteur;
+- **multimédia**, qui intègre des **augmentations multimodales** rendues possibles par le numérique;
+- **scientifique**, qui préserve le caractère **scientifique** de la publication savante (notamment par la révison par les pairs);
+- **visuellement cohérent**, en s’appuyant sur des standards techniques éprouvés et une réalisation épurée, favorable à la lecture[^2];
+- **multiformat**, disponible sur le web, en version numérique téléchargeable ou imprimable.
+
+L’ouvrage devrait donc s’inscrire nativement dans les nouvelles **pratiques numériques**, mais sans délaisser l’**imprimé** – une version papier doit nous attendre au bout de la chaîne éditoriale. Bref, un autre de défi de design.
 
 ## Défi : créer une publication hybride innovante
 
-L’idée, que j’emprunte à Antoine Fauchié, c’est de concevoir une [chaîne de publication inspirée du web](https://www.quaternum.net/2017/03/13/une-chaine-de-publication-inspiree-du-web/). Concevoir une publication avec les outils du web pour une édition ouverte, multiformat, collaborative et suffisamment robuste pour être à l’épreuve du future.
+L’idée, que j’emprunte à Antoine Fauchié, c’est de concevoir une [chaîne de publication inspirée du web](https://www.quaternum.net/2017/03/13/une-chaine-de-publication-inspiree-du-web/) : fabriquer un ouvrage avec les outils du web pour un mode d’édition ouvert, collaboratif et multiformat, tout en étant suffisamment robuste pour être à l’épreuve de l’avenir.
 
-### Les problèmes des chaînes de publications existantes
+Pourquoi avoir choisi les technologies web?
+
+### Les problèmes des chaînes de publication actuelles
 
 ![gif pain]()
 
@@ -30,7 +38,9 @@ Ce problème a un nom : c’est celui du **couplage entre traitement de texte et
 
 Peut-on imaginer un système permettant de passer aisément du manuscrit au produit fini, sans avoir besoin d’intervenir manuellement sur l’édition du texte? Pour emprunter un paradigme au monde du logiciel, y a-t-il une façon d’automatiser un cycle de développement?
 
-### Problème d'accord fond-forme : le format numérique, tendon d’achille des publications savantes
+### Problème d'accord fond-forme : le format numérique, talon d’achille des publications savantes
+
+http://www.anthonymasure.com/articles/2018-11-defaut-esthetique
 
 ## Quelles solutions existent déjà?
 
@@ -42,9 +52,19 @@ Peut-on imaginer un système permettant de passer aisément du manuscrit au prod
 
 ![La chaîne de production simplifiée](schema-chaine-production-simplifiee.jpg)
 
-Une bonne partie de la réponse se trouve dans le [billet](https://www.quaternum.net/2017/03/13/une-chaine-de-publication-inspiree-du-web/) d'Antoine Fauchié : _Une chaîne de production inspirée du web_.
-
 L'idée, c'est d'employer des **technologies ouvertes** (libres, transparentes et accessibles à tous) qui permettent la **collaboration** et le **versionnement**, qui permettent la **production multisortie** (c’est-à-dire en plusieurs **formats**) pour une « partageabilité » facilitée dans les canaux de diffusion contemporains (web et imprimé).
+
+### L'adaptation d'une solution existante : Getty Publications 
+
+![L'équipe de Getty Pubs. Photo: Miranda Sklaroff.](getty-pubs.jpg)
+
+Le mantra :
+
+> Create once, publish everywhere
+>
+> [Getty Pubs](http://blogs.getty.edu/iris/an-editors-view-of-digital-publishing/)
+
+L'idée est donc de créer un gabarit, un moule dans lequel entre du **texte** et quelques données structurées (juste du texte, encore une fois, légèrement balisé et très lisible).
 
 ### Écrire
 
@@ -60,13 +80,13 @@ Une solution? Une édition « propre » dans Google Drive
 
 ![image Git]()
 
-Le versionnement peut se faire avec Git, qui permet essentiellement de versionner du **texte**. Le code, c'est du texte; du texte, c'est… du texte. Alors pourquoi pas utiliser cet outil extrêmement puissant, qui permet des révisions décentralisées et de conserver tout l'historique de travail?
+La mise en commun des modifications peut se faire avec [Git](https://git-scm.com/), un système ultra-robuste qui permet essentiellement de versionner du **texte**. Le code, c'est du texte; du texte, c'est… du texte. Alors pourquoi ne pas utiliser cet outil extrêmement puissant, qui permet des **révisions décentralisées** et de conserver l'**historique de travail** de chacun?
 
 > Plutôt que de travailler sur une même plateforme fermée et limitée, ou plutôt que d’échanger des fichiers avec des numéros de version rapidement incompréhensibles, un fonctionnement plus logique est de _versionner_ […]
 >
 > Antoine Fauchié
 
-Encore une fois, rares sont les auteurs avec les aptitudes techniques pour travailler directement dans le système Git. Des solutions en ligne comme [Forestry](https://forestry.io/) (« Votre équipe toute entière sera en train de faire des *commits* » peut-on lire sur leur page d'accueil).
+Encore une fois, les auteurs sont peu nombreux connaître les rudiments du système de versionnement Git. Des solutions en ligne comme [Forestry](https://forestry.io/) (« Toute votre équipe sera en train de faire des *commits* [révisions] » peut-on lire sur leur page d’accueil), [Prose](http://prose.io/), [Netlify CMS](https://www.netlifycms.org/) ou [Contentful](https://www.contentful.com/) permettent d’interagir graphiquement avec le contenu, façon Git.
 
 ### Mettre en forme
 
@@ -96,23 +116,16 @@ Ce sur quoi insiste tant Tim Berners-Lee, l’inventeur du web, c’est le carac
 
 Quiconque avec un téléphone portable, un ordinateur de bureau, une montre inteligente, une télévision connectée ou même un frigo peut accéder au web via l’URL.
 
-### L'adaptation d'une solution existante : Getty Publications 
-
-![L'équipe de Getty Pubs. Photo: Miranda Sklaroff.](getty-pubs.jpg)
-
-Le mantra :
-
-> Create once, publish everywhere
->
-> [Getty Pubs](http://blogs.getty.edu/iris/an-editors-view-of-digital-publishing/)
-
-L'idée est donc de créer un gabarit, un moule dans lequel entre du **texte** et quelques données structurées (juste du texte, encore une fois, légèrement balisé et très lisible).
-
-## La suite : un gabarit recyclable
+## La suite : un gabarit réutilisable
 
 ![Une chaîne modulaire de publication (via Antoine Fauchié).](2017-chaine-de-publication-02.png)
 
 Dans une solution comme celle-ci, **le contenu et l'architecture sont découplés**, ce qui permet, en théorie, de changer de forme en conservant le même contenu de départ (pourvu que celui-ci soit dans un format ouvert et standard, comme une brochette markdown/YAML).
 
+L’objectif, pour la suite, est d’arriver à un modèle réutilisable pour les chaînes de publication, ou au moins comme point de départ pour accélérer la production d’ouvrages similaires, et de démocratiser ce processus autant aux éditeurs qu’aux non-éditeurs.
+
+## Notes
+
 [^1]: **Constat** : plusieurs recettes éditoriales existent, propres à chaque maison d’édition qui les gardent jalousement pour elles. Pour quelles raisons? Probablement dans un esprit de compétition relevant du secret industriel – ou alors, elles le font pour ne pas exposer le processus douloureux, mal structuré et compliqué de leurs méthodes internes. Ce qui est dommage et inefficient, c’est qu’on réinvente la roue à chaque fois. Tant de solutions avec un objectif commun : faire des livres.
 
+[^2]: Comme le souligne Anthony Masure dans son article [À défaut d’esthétique : plaidoyer pour un design graphique des publications de recherche](http://www.anthonymasure.com/articles/2018-11-defaut-esthetique), les publication savantes souffrent trop souvent d’une forme « majoritairement impensée », si bien qu’il y a un décalage entre le logos et l’aspect visuel qui, selon Masure, participe aussi à produire du sens.
