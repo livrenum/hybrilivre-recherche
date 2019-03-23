@@ -26,9 +26,11 @@ L’ouvrage devrait donc s’inscrire nativement dans les nouvelles **pratiques 
 
 L’idée, que j’emprunte à Antoine Fauchié, c’est de concevoir une [chaîne de publication inspirée du web](https://www.quaternum.net/2017/03/13/une-chaine-de-publication-inspiree-du-web/) : fabriquer un ouvrage avec les outils du web pour un mode d’édition ouvert, collaboratif et multiformat, tout en étant suffisamment robuste pour être à l’épreuve de l’avenir.
 
-Pourquoi avoir choisi les technologies web?
+Pourquoi avoir choisi les technologies web? `à compléter`
 
 ### Les problèmes des chaînes de publication actuelles
+
+`à revoir - pertinent?`
 
 ![gif pain]()
 
@@ -43,6 +45,8 @@ Peut-on imaginer un système permettant de passer aisément du manuscrit au prod
 http://www.anthonymasure.com/articles/2018-11-defaut-esthetique
 
 ## Quelles solutions existent déjà?
+
+`voir liste de liens externes`
 
 ### Comment résolvent-elles les problèmes de la publication numérique?
 
@@ -123,6 +127,8 @@ Quiconque avec un téléphone portable, un ordinateur de bureau, une montre inte
 Dans une solution comme celle-ci, **le contenu et l'architecture sont découplés**, ce qui permet, en théorie, de changer de forme en conservant le même contenu de départ (pourvu que celui-ci soit dans un format ouvert et standard, comme une brochette markdown/YAML).
 
 L’objectif, pour la suite, est d’arriver à un modèle réutilisable pour les chaînes de publication, ou au moins comme point de départ pour accélérer la production d’ouvrages similaires, et de démocratiser ce processus autant aux éditeurs qu’aux non-éditeurs.
+
+`à compléter`
 
 ## Notes
 

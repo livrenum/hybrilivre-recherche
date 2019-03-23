@@ -46,3 +46,4 @@ title: "Sources externes"
 - [After the Storm](http://www.pbs.org/independentlens/interactive/after-the-storm/#/dear-future-disaster-survivor) - Bande dessinée à défilement interactif.
 - [Carte des hydrocarbures](http://www.ledevoir.com/documents/special/16-08_carte-hydrocarbures/index.html) - Exemple de carte interactive (Le Devoir utilisant le service propriétaire [Carto](https://carto.com/)).
 - [Candide BNF](https://candide.bnf.fr/livre) - Une édition hybride numérique à 2 colonnes : d'une part, le texte numérique, et d'autre part, la copie originale numérisée.
+- [Professional Web Typography](https://prowebtype.com/) - Un livre web, généré sous la forme d'un site web statique (qui a directement inspiré Antoine Fauchié pour [Le livre 010101](https://www.010101book.net/fr/)).
