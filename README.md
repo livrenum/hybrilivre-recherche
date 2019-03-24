@@ -10,7 +10,7 @@ Le projet est né à la suite du colloque [ECRIDIL](http://ecridil.ex-situ.info/
 
 >Le colloque ECRIDIL étudie sans les séparer les trois usages fondamentaux de la chaîne du livre (ÉCRire, éDIter,  Lire) à partir de la culture de l’innovation par le design, dans  l’esprit de l’innovation sociale et numérique.
 
-![Les panélistes Emmanuel Souchié, Franck Cormerais et Olivier Charbonneau lors d'une table ronde au colloque ECRIDIL 2018 (photo : Louis-Olivier Brassard).](colloque-ecridil-table.jpg)  
+![Les panélistes Emmanuel Souchié, Franck Cormerais et Olivier Charbonneau lors d'une table ronde au colloque ECRIDIL 2018 (photo : Louis-Olivier Brassard).](images/colloque-ecridil-table.jpg)  
 *Les panélistes Emmanuel Souchié, Franck Cormerais et Olivier Charbonneau lors d'une table ronde au colloque ECRIDIL 2018 (photo : Louis-Olivier Brassard).*
 
 Pour cette publication, nous ne souhaitions pas produire un simple acte de colloque traditionnel (comme [celui découlant de l’édition 2016 à Nîmes](https://desinnolivre.tumblr.com/)), dont le format peu attrayant et conçu selon les techniques plutôt « fermées » de l’imprimé ne serait pas du tout en phase avec le caractère innovant des idées des conférences. L’ambition est plutôt de produire un ouvrage :
@@ -33,14 +33,14 @@ L’idée, que j’emprunte à Antoine Fauchié, c’est de concevoir une [chaî
 
 *Pour une série de liens et de ressources, notamment d’autres exemples de publications nativement numériques, voir la liste de [liens externes](sources-externes.md).*
 
-![La chaîne de production simplifiée.](schema-chaine-production-simplifiee.jpg)  
+![La chaîne de production simplifiée.](images/schema-chaine-production-simplifiee.jpg)  
 *La chaîne de production simplifiée.*
 
 L'idée, c'est d'employer des **technologies ouvertes** (libres, transparentes et accessibles à tous) qui permettent la **collaboration** et le **versionnement** ainsi que la **production multisortie** (c’est-à-dire en plusieurs **formats**) afin d’être facilement partageable dans les divers canaux de diffusion contemporains (web et imprimé).
 
 ### L'adaptation d'une solution existante : Getty Publications 
 
-![L'équipe de Getty Pubs présentent leur publication multiplateforme Ancient Terracotas. Photo: Miranda Sklaroff (via Getty Pubs).](getty-pubs.jpg)  
+![L'équipe de Getty Pubs présentent leur publication multiplateforme Ancient Terracotas. Photo: Miranda Sklaroff (via Getty Pubs).](images/getty-pubs.jpg)  
 *L'équipe de Getty Pubs présentent leur publication multiplateforme Ancient Terracotas. Photo: Miranda Sklaroff (via Getty Pubs).*
 
 Leur mantra :
@@ -57,14 +57,14 @@ La solution proposée pour l’hybrilivre est basée sur la chaîne de Getty Pub
 
 Idéalement, le texte devrait être produit dans un format ouvert et balisé, mais complètement découplé de tout formatage visuel. Le **Markdown** constitue un excellent exemple : il est léger, standard et très répandu, offrant une syntaxe légère pour baliser certains éléments d’écriture (niveaux en-têtes, emphase, citations, listes, etc.).
 
-*![Une capture d'écran montrant la syntaxe markdown (via Antoine Fauchié).](2018-markdown-04.png)  
+*![Une capture d'écran montrant la syntaxe markdown (via Antoine Fauchié).](images/2018-markdown-04.png)  
 Une capture d'écran montrant la syntaxe markdown (via Antoine Fauchié).*
 
 **Le hic**, c'est que les auteurs sont déjà très confortables dans des logiciels de traitement de texte propriétaires, comme **Microsoft Word**, lequel n’est malheureusement **pas très interopérable** et produit du texte généralement **peu structuré**. Des outils de conversion comme [Pandoc](https://github.com/jgm/pandoc) permettent de passer rapidement d’un format à l’autre, mais l’édition dans Word introduit souvent beaucoup d’éléments superflus qu’il faut nettoyer à la main.
 
 Entre facilité d’édition et interopérabilité des contenus, le New York Times a développé un outil qui réunit **le meilleur des deux mondes** : [ArchieML](http://archieml.org/).
 
-![Le logo d'ArchieML et son slogan (via archieml.org)](archieml-logo.jpeg)  
+![Le logo d'ArchieML et son slogan (via archieml.org)](images/archieml-logo.jpeg)  
 *Le logo d'ArchieML et son slogan (via archieml.org)*
 
 Cette technologie, conçue pour travailler avec les journalistes pressés, permet à la fois aux **auteurs/éditeurs** de travailler dans un logociel de traitement de texte collaboratif en ligne (Google Docs) et aux **développeurs/designers** de travailler avec les données en format ouvert et sémantique.
@@ -73,7 +73,7 @@ Bref, une édition simple et « propre » dans Google Drive!
 
 ### Collaborer, valider, versionner
 
-![Schéma d'une chaîne de travail en arborescence Git (via Git-scm.com).](git-commits.png)
+![Schéma d'une chaîne de travail en arborescence Git (via Git-scm.com).](images/git-commits.png)
 *Schéma d'une chaîne de travail en arborescence Git (via Git-scm.com).*
 
 La mise en commun des modifications peut se faire avec [Git](https://git-scm.com/), un système ultra-robuste qui permet essentiellement de versionner du **texte**. Le code, c'est du texte; du texte, c'est… du texte. Alors pourquoi ne pas utiliser cet outil extrêmement puissant, qui permet des **révisions décentralisées** et de conserver l'**historique de travail** de chacun?
@@ -86,7 +86,7 @@ Néanmoins, **les auteurs sont peu nombreux connaître les rudiments du système
 
 **Dans la chaîne éditoriale proposée, les auteurs ne rédigent pas à même le dépôt Git, mais à partir de Google Drive.** Les auteurs, qui n’ont pas le temps de se soustraire à un protocole de rédaction particulier, peuvent continuer à rédiger, collaborer et réviser en ligne, comme ils en ont déjà l’habitude. C’est l’idée d’un « micro CMS ».
 
-![Google Drive propose fonctionnalités de collaboration en ligne.](gdrive-collaboration.png)  
+![Google Drive propose fonctionnalités de collaboration en ligne.](images/gdrive-collaboration.png)  
 *Google Drive propose fonctionnalités de collaboration en ligne (via Google Drive).*
 
 Les textes sont par la suite **rapatriés dans le dépôt** et stockés sous forme de **texte brut**, au bonheur des dévloppeurs qui apprécient la flexibilité des fichiers texte ouverts et sémantiques. Ces **copies** peuvent alors être intégrées au système de versionnement!
@@ -95,7 +95,7 @@ Les textes sont par la suite **rapatriés dans le dépôt** et stockés sous for
 
 Les contenus en **texte brut** sont beaucoup plus facile à **mettre en forme**, car ils sont complètement dissociés de toute autre information superflue; ce sont des **données toutes nues**, prêtes à être **habillées** par un système de mise en forme. Celui-ci s’appuie sur les technologies du web, qui le font particulièrement bien, dans le paradigme des **générateurs de sites web statiques**.
 
-![Du balisage HTML.](sai-kiran-anagani-61187-unsplash.jpg)  
+![Du balisage HTML.](images/sai-kiran-anagani-61187-unsplash.jpg)  
 *Du balisage HTML (via Unsplash).*
 
 Le HTML permet de **structurer** un document selon une série de balises standard et **sémantiques**, ainsi que de le mettre en la relation avec d’autres documents via des **hyperliens**.
@@ -108,7 +108,7 @@ Enfin, le javascript est un **langage de programmation** qui permet de créer de
 
 ### Fabriquer
 
-![Un livre créé avec CSS Print (via Nicolas Taffin).](polylogue-livre.jpeg)  
+![Un livre créé avec CSS Print (via Nicolas Taffin).](images/polylogue-livre.jpeg)  
 *Un livre créé avec CSS Print (via Nicolas Taffin).*
 
 Travailler avec les technologies web ne signifie pas qu'il faut se restreindre à ce format, au contraire! Comme c'est un langage ouvert et structuré, il est possible de passer facilement d'un format à l'autre grâce au **balisage** qui structure le texte (en-têtes, légendes, sections, etc.) en parties **sémantiques** et en y intégrant des **métadonnées** (lisibles par des machines, ce qui facilite notamment l’indexation).
@@ -119,7 +119,7 @@ Des logiciels comme [Pandoc](https://github.com/jgm/pandoc) ou [PrinceXML](https
 
 ### Publier
 
-![Anthony Masure a publié sa thèse de doctorat dans une version web exemplaire ainsi que dans une version imprimée de grande qualité (via Anthony Masure).](pdf-anthony-masure.png.png)  
+![Anthony Masure a publié sa thèse de doctorat dans une version web exemplaire ainsi que dans une version imprimée de grande qualité (via Anthony Masure).](images/pdf-anthony-masure.png.png)  
 *Anthony Masure a publié sa thèse de doctorat dans une version web exemplaire ainsi que dans une version imprimée de grande qualité (via Anthony Masure) : http://www.softphd.com/*
 
 L'idée d'utiliser le **langage du web pour publier**, c'est parce que c'est un format standard, très répandu et qui va de pair avec l'**URL** _(Universal Resource Locator)_ : n'importe qui peut accéder au contenu via le [lien](https://www.theguardian.com/technology/2019/mar/12/tim-berners-lee-on-30-years-of-the-web-if-we-dream-a-little-we-can-get-the-web-we-want).
@@ -132,7 +132,7 @@ Ce sur quoi insiste tant Tim Berners-Lee, l’inventeur du web, c’est le carac
 
 ## La suite : un gabarit réutilisable
 
-![Une chaîne modulaire de publication (via Antoine Fauchié).](2017-chaine-de-publication-02.png)
+![Une chaîne modulaire de publication (via Antoine Fauchié).](images/2017-chaine-de-publication-02.png)
 
 Dans une solution comme celle-ci, **le contenu et l'architecture sont découplés**, ce qui permet, en théorie, de changer de forme en conservant le même contenu de départ (pourvu que celui-ci soit dans un format ouvert et standard, comme une brochette markdown/YAML).
 
