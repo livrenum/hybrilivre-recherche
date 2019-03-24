@@ -2,7 +2,25 @@
 
 Dépôt des documents de recherche pour un modèle de publication hybride numérique : liens, réflexions et autres pièces du casse-tête.
 
-[TOC]
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table des matières**
+
+- [Contexte du projet](#contexte-du-projet)
+- [Défi : créer une publication hybride innovante](#d%C3%A9fi--cr%C3%A9er-une-publication-hybride-innovante)
+- [La solution (aboutissement de cette ronde de recherche)](#la-solution-aboutissement-de-cette-ronde-de-recherche)
+  - [L'adaptation d'une solution existante : Getty Publications](#ladaptation-dune-solution-existante--getty-publications)
+  - [Écrire](#%C3%A9crire)
+  - [Collaborer, valider, versionner](#collaborer-valider-versionner)
+  - [Mettre en forme](#mettre-en-forme)
+  - [Fabriquer](#fabriquer)
+  - [Publier](#publier)
+- [La suite : un gabarit réutilisable](#la-suite--un-gabarit-r%C3%A9utilisable)
+- [Notes](#notes)
+- [Références Zotero](#r%C3%A9f%C3%A9rences-zotero)
+- [Licence](#licence)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Contexte du projet
 
