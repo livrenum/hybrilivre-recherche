@@ -45,6 +45,8 @@ Wow c'est (presque) vrai! J'ajouterai que les flux RSS sont mieux encore, mais l
 
 Et chaque lien dans le courriel est aussi lié à votre profil; les compagnies peuvent donc récolter les statistiques de clics (quels sujets/articles vous plaisent à vous, abonné en particulier?). C'est pour cela que, lorsque vous ouvrez le lien d'un courriel, vous êtes toujours **redirigé** après être passé par le lien de pistage (ex. `newsletter.list-manage.com/abonne-xyz` &rarr; `vrai-lien.com`).
 
+Les [fils RSS](https://larlet.fr/david/blog/2019/flux-rss/) n'auraient-ils pas toutes les [qualités de la newsletter](https://mstdn.quebec.gq/web/statuses/101811517945293111), sans les failles de pistage?
+
 ## Le livre du 21e siècle
 
 Le livre du 21e siècle n'est peut-être pas un nouvel objet tangible, mais un univers – *une toile* – plus ou moins défini de contenus multimédias :
