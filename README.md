@@ -1,26 +1,12 @@
-# Recherche Hybrilivre
+---
+Date: 2019-03-25
+Auteur: Louis-Olivier Brassard
+Version: 1.0
+---
 
-Dépôt des documents de recherche pour un modèle de publication hybride numérique : liens, réflexions et autres pièces du casse-tête.
+# Recherche Hybrilivre : rapport d’étape
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table des matières**
-
-- [Contexte du projet](#contexte-du-projet)
-- [Défi : créer une publication hybride innovante](#d%C3%A9fi--cr%C3%A9er-une-publication-hybride-innovante)
-- [La solution (aboutissement de cette ronde de recherche)](#la-solution-aboutissement-de-cette-ronde-de-recherche)
-  - [L'adaptation d'une solution existante : Getty Publications](#ladaptation-dune-solution-existante--getty-publications)
-  - [Écrire](#%C3%A9crire)
-  - [Collaborer, valider, versionner](#collaborer-valider-versionner)
-  - [Mettre en forme](#mettre-en-forme)
-  - [Fabriquer](#fabriquer)
-  - [Publier](#publier)
-- [La suite : un gabarit réutilisable](#la-suite--un-gabarit-r%C3%A9utilisable)
-- [Notes](#notes)
-- [Références Zotero](#r%C3%A9f%C3%A9rences-zotero)
-- [Licence](#licence)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+[TOC]
 
 ## Contexte du projet
 
@@ -35,13 +21,13 @@ Pour cette publication, nous ne souhaitions pas produire un simple acte de collo
 
 - **ouvert**, transparent autant dans la conception que dans la production et permettant la redistribution, voire la réappropriation par l’utilisateur, le lecteur;
 - **multimédia**, qui intègre des **augmentations multimodales** rendues possibles par le numérique;
-- **scientifique**, qui préserve le caractère **scientifique** de la publication savante (notamment par la révison par les pairs);
-- **visuellement cohérent**, en s’appuyant sur des standards techniques éprouvés et une réalisation épurée, favorable à la lecture[^2];
+- **scientifique**, qui préserve le caractère **scientifique** de la publication savante (notamment par la révisons par les pairs);
+- **visuellement cohérent**, en s’appuyant sur des standards techniques éprouvés et une réalisation épurée, favorable à la lecture[^1];
 - **multiformat**, disponible sur le web, en version numérique téléchargeable ou imprimable.
 
 La publication devrait donc s’inscrire nativement dans les nouvelles **pratiques numériques**, mais sans délaisser l’**imprimé** – une version papier doit nous attendre au bout de la chaîne éditoriale. Bref, un autre de défi de design.
 
-Quels sont les problèmes avec les chaînes de publication contemporaines? Voir le [fichier annexe](problemes-chaines-publication.md) pour les grandes lignes.
+Quels sont les problèmes avec les chaînes de publication contemporaines? Voir le [fichier annexe](https://github.com/livrenum/hybrilivre-recherche/blob/master/problemes-chaines-publication.md) pour les grandes lignes[^2].
 
 ## Défi : créer une publication hybride innovante
 
@@ -49,7 +35,7 @@ L’idée, que j’emprunte à Antoine Fauchié, c’est de concevoir une [chaî
 
 ## La solution (aboutissement de cette ronde de recherche)
 
-*Pour une série de liens et de ressources, notamment d’autres exemples de publications nativement numériques, voir la liste de [liens externes](sources-externes.md).*
+*Pour une série de liens et de ressources, notamment d’autres exemples de publications nativement numériques, voir la liste de [liens externes](https://github.com/livrenum/hybrilivre-recherche/blob/master/sources-externes.md).*
 
 ![La chaîne de production simplifiée.](images/schema-chaine-production-simplifiee.jpg)  
 *La chaîne de production simplifiée.*
@@ -58,8 +44,8 @@ L'idée, c'est d'employer des **technologies ouvertes** (libres, transparentes e
 
 ### L'adaptation d'une solution existante : Getty Publications 
 
-![L'équipe de Getty Pubs présentent leur publication multiplateforme Ancient Terracotas. Photo: Miranda Sklaroff (via Getty Pubs).](images/getty-pubs.jpg)  
-*L'équipe de Getty Pubs présentent leur publication multiplateforme Ancient Terracotas. Photo: Miranda Sklaroff (via Getty Pubs).*
+![L'équipe de Getty Pubs présente leur publication multiplateforme Ancient Terracotas. Photo: Miranda Sklaroff (via Getty Pubs).](images/getty-pubs.jpg)  
+*L'équipe de Getty Pubs présente leur publication multiplateforme Ancient Terracotas. Photo: Miranda Sklaroff (via Getty Pubs).*
 
 Leur mantra :
 
@@ -67,7 +53,7 @@ Leur mantra :
 >
 > [Getty Pubs](http://blogs.getty.edu/iris/an-editors-view-of-digital-publishing/)
 
-L'idée est donc de créer un gabarit, un moule dans lequel entre du **texte** et sortent des **publications en plusieurs formats**. C’est ce qu’a fait l’institut Getty avec leur outil [Quire](https://github.com/gettypubs/quire) (voir le résultat ci-haut).
+L'idée est donc de créer un gabarit, un moule dans lequel entre du **texte** et dans lequel sortent des **publications en plusieurs formats**. C’est ce qu’a fait l’institut Getty avec leur outil [Quire](https://github.com/gettypubs/quire) (voir le résultat ci-haut).
 
 La solution proposée pour l’hybrilivre est basée sur la chaîne de Getty Pubs, dont le code source est disponible sur GitHub (en beta fermé).
 
@@ -94,7 +80,7 @@ Bref, une édition simple et « propre » dans Google Drive!
 ![Schéma d'une chaîne de travail en arborescence Git (via Git-scm.com).](images/git-commits.png)
 *Schéma d'une chaîne de travail en arborescence Git (via Git-scm.com).*
 
-La mise en commun des modifications peut se faire avec [Git](https://git-scm.com/), un système ultra-robuste qui permet essentiellement de versionner du **texte**. Le code, c'est du texte; du texte, c'est… du texte. Alors pourquoi ne pas utiliser cet outil extrêmement puissant, qui permet des **révisions décentralisées** et de conserver l'**historique de travail** de chacun?
+La mise en commun des modifications peut se faire avec [Git](https://git-scm.com/), un système ultra-robuste qui permet essentiellement de versionner du **texte**. Le code, c'est du texte; du texte, c'est… du texte. Alors, pourquoi ne pas utiliser cet outil extrêmement puissant, qui permet des **révisions décentralisées** et de conserver l'**historique de travail** de chacun?
 
 > Plutôt que de travailler sur une même plateforme fermée et limitée, ou plutôt que d’échanger des fichiers avec des numéros de version rapidement incompréhensibles, un fonctionnement plus logique est de _versionner_ […]
 >
@@ -122,7 +108,7 @@ Le langage CSS est celui qui donne **forme et couleur au web** : c'est tout simp
 
 Enfin, le javascript est un **langage de programmation** qui permet de créer des **interactions dynamiques** entre l’utilisateur et la page.
 
-**Pourquoi choisir les technologies web?** Parce que sont des technologies ubiquitaires, standard et ouvertes. Il existe une myriades d’outils pour démarrer rapidement des projets web, comme [Wordpress](https://wordpress.org), un gestionnaire de contenus (CMS) qui s’installe en 5 minutes. **Le problème avec les CMS traditionnels**, c’est qu’ils doivent être hébergés sur des serveurs pour servir des pages à la demande, et sont indisponibles  à quiconque n’a pas accès à Internet. Depuis quelques années, un nouveau paradigme s’est répandu : celui des [générateurs de site web statique](https://www.staticgen.com/). Au lieu de générer des pages à chaque visite, le site web est **entièrement construit à l’avance**, ce qui lui confère une portabilité et une indépendance des plateformes d’hébergement. C’est dans le cadre de ce paradigme que nous exploiterons les technologies web (avec, notamment, le générateur ultra-rapide [Hugo](https://gohugo.io/)).
+**Pourquoi choisir les technologies web?** Parce que sont des technologies ubiquitaires, standard et ouvertes. Il existe une myriade d’outils pour démarrer rapidement des projets web, comme [Wordpress](https://wordpress.org), un gestionnaire de contenus (CMS) qui s’installe en 5 minutes. **Le problème avec les CMS traditionnels**, c’est qu’ils doivent être hébergés sur des serveurs pour servir des pages à la demande, et sont indisponibles  à quiconque n’a pas accès à Internet. Depuis quelques années, un nouveau paradigme s’est répandu : celui des [générateurs de site web statique](https://www.staticgen.com/). Au lieu de générer des pages à chaque visite, le site web est **entièrement construit à l’avance**, ce qui lui confère une portabilité et une indépendance des plateformes d’hébergement. C’est dans le cadre de ce paradigme que nous exploiterons les technologies web (avec, notamment, le générateur ultra-rapide [Hugo](https://gohugo.io/)).
 
 ### Fabriquer
 
@@ -146,26 +132,25 @@ L'idée d'utiliser le **langage du web pour publier**, c'est parce que c'est un 
 >
 > Tim Berners-Lee
 
-Ce sur quoi insiste tant Tim Berners-Lee, l’inventeur du web, c’est le caractère **foncièrement publique** de l’URL. Avec l'URL, les contenus ne sont (_a priori_) pas enfermés dans un lieu physique ou dans une application propriétaire, par exemple; elle doit nécessairement pointer vers une **référence publique**. C’est une composante fondamentale du web; pourquoi ne pas l’exploiter nativement?
+Ce sur quoi insiste tant Tim Berners-Lee, l’inventeur du web, c’est le caractère **foncièrement public** de l’URL. Avec l'URL, les contenus ne sont (_a priori_) pas enfermés dans un lieu physique ou dans une application propriétaire, par exemple; elle doit nécessairement pointer vers une **référence publique**. C’est une composante fondamentale du web; pourquoi ne pas l’exploiter nativement?
 
 ## La suite : un gabarit réutilisable
 
 ![Une chaîne modulaire de publication (via Antoine Fauchié).](images/2017-chaine-de-publication-02.png)
 
-Dans une solution comme celle-ci, **le contenu et l'architecture sont découplés**, ce qui permet, en théorie, de changer de forme en conservant le même contenu de départ (pourvu que celui-ci soit dans un format ouvert et standard, comme une brochette markdown/YAML).
+Dans une solution comme celle-ci, **le contenu et l'architecture sont découplés**, ce qui permet, en théorie, de changer de forme en conservant le même contenu de départ (pourvu que celui-ci soit dans un format ouvert et standard, comme une brochette Markdown/YAML).
 
 L’objectif, pour la suite, est d’arriver à un **gabarit réutilisable** pour les chaînes de publication (ou, à tout le moins, un modèle à suivre). Ultimement, ce projet permettra d’**accélérer la production** d’ouvrages nativement numériques, de **démocratiser** le processus d’édition (autant aux éditeurs qu’aux non-éditeurs) et, enfin, d’assurer l’accessibilité dans les canaux de diffusion par la prise en charge multisortie.
 
 ## Notes
 
-[^1]: **Constat** : plusieurs recettes éditoriales existent, propres à chaque maison d’édition qui les gardent jalousement pour elles. Pour quelles raisons? Probablement dans un esprit de compétition relevant du secret industriel – ou alors, elles le font pour ne pas exposer le processus douloureux, mal structuré et compliqué de leurs méthodes internes. Ce qui est dommage et inefficient, c’est qu’on réinvente la roue à chaque fois. Tant de solutions avec un objectif commun : faire des livres.
-
-[^2]: Comme le souligne Anthony Masure dans son article [À défaut d’esthétique : plaidoyer pour un design graphique des publications de recherche](http://www.anthonymasure.com/articles/2018-11-defaut-esthetique), les publication savantes souffrent trop souvent d’une forme « majoritairement impensée », si bien qu’il y a un décalage entre le *logos* et l’aspect visuel qui, selon Masure, participe aussi à la production de sens.
+[^1]: Comme le souligne Anthony Masure dans son article [À défaut d’esthétique : plaidoyer pour un design graphique des publications de recherche](http://www.anthonymasure.com/articles/2018-11-defaut-esthetique), les publications savantes souffrent trop souvent d’une forme « majoritairement impensée », si bien qu’il y a un décalage entre le *logos* et l’aspect visuel qui, selon Masure, participe aussi à la production de sens.
+[^2]: **Constat** : plusieurs recettes éditoriales existent, propres à chaque maison d’édition qui les garde jalousement pour elles. Pour quelles raisons? Probablement dans un esprit de compétition relevant du secret industriel – ou alors, elles le font pour ne pas exposer le processus douloureux, mal structuré et compliqué de leurs méthodes internes. Ce qui est dommage et inefficient, c’est qu’on réinvente la roue à chaque fois. Tant de solutions avec un objectif commun : faire des livres.
 
 ## Références Zotero
 
-Les références sont répertoriées dans la collection [Recherche hybrilivre](https://www.zotero.org/groups/2305940/livrenum/items/collectionKey/UYSZX8T8) du groupe publique Zotero ([livrenum](https://www.zotero.org/groups/livrenum)).
+Les références sont répertoriées dans la collection [Recherche hybrilivre](https://www.zotero.org/groups/2305940/livrenum/items/collectionKey/UYSZX8T8) du groupe public Zotero ([livrenum](https://www.zotero.org/groups/livrenum)).
 
 ## Licence
 
-[MIT](LICENSE)
+[CC-BY-SA-4.0](LICENSE)
