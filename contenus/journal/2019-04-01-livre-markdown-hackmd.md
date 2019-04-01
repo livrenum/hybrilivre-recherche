@@ -12,6 +12,12 @@ Le service d'édition et de collaboration en ligne [HackMD](https://hackmd.io/) 
 
 Chaque page est en fait une «note». La première page («note») fait office de couverture et de table des matières.
 
-Une forme plutôt simple du livre, qui ressemble davantage à un wiki qu'à un ouvrage littéraire.
+Une forme plutôt simple du livre, qui ressemble davantage à un wiki qu'à un ouvrage littéraire…
+
+![How to Create a Book, par HackMD](images/book-hackmd.jpeg)
+
+On remarquera l'interface à panneau sur le côté gauche, similaire à la publication de Getty Pubs.
+
+## Autres réflexions
 
 Possibilité d'exporter dans un format portatif? C'est du markdown, le code source de chaque fichier est disponible. Mais le service propose dse fonctionnalités supplémentaires intégrées au Markdown; utiliser ces fonctionnalités extra-langage brise le standard, et fait moins de portabilité…
