@@ -1,1 +1,11 @@
 contentDir: contenus
+
+# use a forked version of minos
+# https://github.com/livrenum/hugo-theme-minos
+theme: minos
+baseurl: "https://recherche-livrenum.loupbrun.ca/"
+title: "Journal de Recherche LivreNum"
+params:
+    author: "Louis-Olivier Brasard"
+    copyright: >
+      [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)

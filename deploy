@@ -1,0 +1,8 @@
+#!/bin/bash
+
+USER=louis
+DISTDIR=./public/
+REMOTEHOST=recherche-livrenum.loupbrun.ca
+REMOTEDIR=/var/www/recherche-livrenum.loupbrun.ca
+
+rsync -rv --delete $DISTDIR $USER@$REMOTEHOST:$REMOTEDIR
