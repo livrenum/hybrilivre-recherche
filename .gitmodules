@@ -1,0 +1,3 @@
+[submodule "themes/minos"]
+	path = themes/minos
+	url = git@github.com:livrenum/hugo-theme-minos.git

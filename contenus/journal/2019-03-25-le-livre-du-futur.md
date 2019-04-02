@@ -1,6 +1,7 @@
 ---
-title: "Le livre du futur"
+title: "«Le livre du futur»"
 date: 2019-03-25
+author: Louis-Olivier Brasard
 ---
 
 _D'après l'[article](https://www.wired.com/story/future-book-is-here-but-not-what-we-expected/) écrit par Craig Mod, publié le 20 décembre 2018 dans Wired, retrouvé via la [veille](https://www.quaternum.net/2019/02/26/le-livre-du-futur/) d'Antoine Fauchié._

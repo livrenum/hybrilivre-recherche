@@ -1,6 +1,7 @@
 ---
-title: "Bonnes pratiques pour Markdown"
+title: "Entrée du 29 mars 2019: Markdown et Dockieli"
 date: 2019-03-29
+author: Louis-Olivier Brasard
 ---
 
 **Écrire 1 phrase par ligne** (c’est d’ailleurs suivant [cette règle](https://dlis.hypotheses.org/4381#%C3%A9crire) qu’Antoine Fauchié travaille sur son mémoire).
