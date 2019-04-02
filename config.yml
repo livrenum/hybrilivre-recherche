@@ -1,5 +1,7 @@
 contentDir: contenus
 
+DefaultContentLanguage: fr
+
 # use a forked version of minos
 # https://github.com/livrenum/hugo-theme-minos
 theme: minos

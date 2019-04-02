@@ -1,5 +1,5 @@
 ---
-title: "De bonnes pratiques pour Markdown"
+title: "Écrire: du Markdown à Dockieli"
 date: 2019-03-29
 author: Louis-Olivier Brasard
 ---

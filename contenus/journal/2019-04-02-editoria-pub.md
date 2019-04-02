@@ -2,9 +2,15 @@
 title: Le projet PubSweet et son écosystème
 date: 2019-04-02 
 author: Louis-Olivier Brasard
+
+
+featuredImage: /journal/images/editoria.jpg
+ogimage: /journal/images/editoria.jpg
 ---
 
 J’ai découvert, de fil en aiguille, la plateforme [Editoria](https://editoria.pub/).
+
+![Editoria.pub](/journal/images/editoria.jpg)
 
 ># Build books better.
 >
