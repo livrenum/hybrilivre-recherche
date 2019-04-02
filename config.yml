@@ -6,8 +6,24 @@ DefaultContentLanguage: fr
 # https://github.com/livrenum/hugo-theme-minos
 theme: minos
 baseurl: "https://recherche-livrenum.loupbrun.ca/"
-title: "Journal de Recherche LivreNum"
+title: "Journal de recherche LivreNum"
+
+permalinks:
+  journal: journal/:year/:month/:day/:slug
+
+#taxonomies:
+#  journal: Journal
+
+pluralizeListTitles: false
+preserveTaxonomyNames: true
+
 params:
     author: "Louis-Olivier Brasard"
     copyright: >
       [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
+
+menu:
+  main:
+    - title: Entrées
+      name: Entrées
+      url: /journal/

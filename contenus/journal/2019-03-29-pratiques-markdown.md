@@ -1,5 +1,5 @@
 ---
-title: "Écrire: du Markdown à Dockieli"
+title: "Entrée du 29 mars 2019: Markdown et Dockieli"
 date: 2019-03-29
 author: Louis-Olivier Brasard
 ---

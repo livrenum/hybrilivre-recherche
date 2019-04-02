@@ -1,5 +1,5 @@
 ---
-title: "Le livre du futur"
+title: "«Le livre du futur»"
 date: 2019-03-25
 author: Louis-Olivier Brasard
 ---

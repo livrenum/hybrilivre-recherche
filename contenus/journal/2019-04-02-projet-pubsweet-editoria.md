@@ -1,5 +1,6 @@
 ---
 title: Le projet PubSweet et son écosystème
+slug: editoria-pub
 date: 2019-04-02 
 author: Louis-Olivier Brasard
 
@@ -19,9 +20,17 @@ J’ai découvert, de fil en aiguille, la plateforme [Editoria](https://editoria
 >Efficiently produce format-flexible, standards-compliant books with Editoria, the open source, web-based editing & production workflow tool.
 >Built by publishers, for publishers.
 
-Ce projet tourne autour de la chaîne de production [PubSweet](https://gitlab.coko.foundation/pubsweet/pubsweet), «la boîte à outils ouverte pour bâtir des chaînes de publication» (*The open toolkit for building publishing workflows*).
+Ce projet est basé sur la **chaîne de production [PubSweet](https://gitlab.coko.foundation/pubsweet/pubsweet)**, «la boîte à outils ouverte pour bâtir des chaînes de publication» (*The open toolkit for building publishing workflows*).
 
-Par ailleurs, ils ont aussi créé un **écosystème** à plusieurs composantes entourant leur chaîne de production (*PubSweet*) : 
+Le projet est ouvert, le code source est disponible dans les [dépôts Git](https://gitlab.coko.foundation) de la [fondation coko](https://coko.foundation) (la _Common Knowledge Foundation_).
+
+Cette fondation s'investit d'ailleurs dans des «solutions appartenant à la communauté» (_Community-owned Solutions_). Les objets fabriqués sont :
+
+- des livers
+- des revues
+- des micro-publications.
+
+Par ailleurs, les différents acteurs et partenaires de la fondation ont aussi créé un **écosystème** à plusieurs composantes entourant leur chaîne de production (*PubSweet*). On compte des plateformes pour l'**édition**, la **collaboration** et la **publicaton**.
 
 > # Projects using PubSweet
 >
