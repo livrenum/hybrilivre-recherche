@@ -1,5 +1,6 @@
 ---
 title: "Sources externes"
+type: single
 ---
 
 ## Articles et billets de blogue sur la publication numérique
