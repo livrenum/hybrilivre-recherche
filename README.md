@@ -1,14 +1,14 @@
 ---
 Date: 2019-03-25
 Auteur: Louis-Olivier Brassard
-Version: 1.0
+Version: 1.1
 ---
 
 # Recherche Hybrilivre : rapport d’étape
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+**Table des matières**
 
 - [Recherche Hybrilivre : rapport d’étape](#recherche-hybrilivre--rapport-d%C3%A9tape)
   - [Contexte du projet](#contexte-du-projet)
