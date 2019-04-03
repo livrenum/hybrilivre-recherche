@@ -27,3 +27,6 @@ menu:
     - title: Entrées
       name: Entrées
       url: /journal/
+    - title: Rapport d’étape
+      name: Rapport d’étape
+      url: https://github.com/livrenum/hybrilivre-recherche/blob/master/README.md

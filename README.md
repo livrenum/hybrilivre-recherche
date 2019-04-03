@@ -96,7 +96,7 @@ Bref, une édition simple et « propre » dans Google Drive!
 
 ### Collaborer, valider, versionner
 
-![Schéma d'une chaîne de travail en arborescence Git (via Git-scm.com).](images/git-commits.png)
+![Schéma d'une chaîne de travail en arborescence Git (via Git-scm.com).](images/git-commits.png)  
 *Schéma d'une chaîne de travail en arborescence Git (via Git-scm.com).*
 
 La mise en commun des modifications peut se faire avec [Git](https://git-scm.com/), un système ultra-robuste qui permet essentiellement de versionner du **texte**. Le code, c'est du texte; du texte, c'est… du texte. Alors, pourquoi ne pas utiliser cet outil extrêmement puissant, qui permet des **révisions décentralisées** et de conserver l'**historique de travail** de chacun?
@@ -112,7 +112,7 @@ Néanmoins, **les auteurs sont peu nombreux connaître les rudiments du système
 ![Google Drive propose fonctionnalités de collaboration en ligne.](images/gdrive-collaboration.png)  
 *Google Drive propose fonctionnalités de collaboration en ligne (via Google Drive).*
 
-Les textes sont par la suite **rapatriés dans le dépôt** et stockés sous forme de **texte brut**, au bonheur des dévloppeurs qui apprécient la flexibilité des fichiers texte ouverts et sémantiques. Ces **copies** peuvent alors être intégrées au système de versionnement!
+Les textes sont par la suite **rapatriés dans le dépôt** et stockés sous forme de **texte brut**, au bonheur des développeurs qui apprécient la flexibilité des fichiers texte ouverts et sémantiques. Ces **copies** peuvent alors être intégrées au système de versionnement!
 
 ### Mettre en forme
 
