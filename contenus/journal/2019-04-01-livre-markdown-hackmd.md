@@ -3,11 +3,11 @@ title: Faire un «livre» en markdown avec HackMD
 date: 2019-04-01 
 author: Louis-Olivier Brasard
 
-featuredImage: /journal/images/book-hackmd.jpg
-ogimage: /journal/images/book-hackmd.jpg
+featuredImage: /images/book-hackmd.jpg
+ogimage: /images/book-hackmd.jpg
 ---
 
-![](/journal/images/book-hackmd.jpg)
+![](/images/book-hackmd.jpg)
 
 Le service d'édition et de collaboration en ligne [HackMD](https://hackmd.io/) propose de «créer un livre» ([_How to Create a Book_](https://hackmd.io/c/tutorials/%2Fs%2Fhow-to-create-book)) avec un ensemble de notes en Markdown.
 
@@ -20,7 +20,7 @@ Chaque page est en fait une «note». La première page («note») fait office d
 
 Une forme plutôt simple du livre, qui ressemble davantage à un wiki qu'à un ouvrage littéraire…
 
-![How to Create a Book, par HackMD](images/book-hackmd.jpeg)
+![How to Create a Book, par HackMD](/images/book-hackmd.jpeg)
 
 On remarquera l'interface à panneau sur le côté gauche, similaire à la publication de Getty Pubs.
 
