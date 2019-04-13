@@ -1,5 +1,6 @@
 ---
 title: "Sources externes"
+type: single
 ---
 
 ## Articles et billets de blogue sur la publication numérique
@@ -10,6 +11,8 @@ title: "Sources externes"
 - [Building Books with CSS3](alistapart.com/article/building-books-with-css3) - Un article sur les feuilles de style du web, pour l’imprimé. Écrit par [Nellie McKesson](https://alistapart.com/author/nmckesson). `CSS`
 - [L'écriture collaborative en recherche et création](http://nicolassauret.net/carnet/2018/03/23/l-ecriture-collaborative-en-recherche-et-creation/) - Article de [Nicolas Sauret](http://nicolassauret.net), issu d’une présentation en collaboration avec Servanne Monjour. On parle d’éditorialisation (terme de [Marcello Vitali-Rosati](http://vitalirosati.com/)).
 - [_(Statut Twitter)_](https://twitter.com/antoinentl/status/991317685161152512) - Git pour tous types de processus (incl. légaux avec avocats).
+- [_Timeline of technologies for publishing_](http://recherche.julie-blanc.fr/timeline-publishing/) - Une ligne du temps recensant les outils de publication depuis 1926 par [Julie Blanc](http://julie-blanc.fr).
+- [La licence Édition Équitable (éé)](https://edition-equitable.org/) - Une licence qui propose un contrat équitable et durable entre lecteur et éditeur, et qui vise à promouvoir les droits de tous les acteurs impliqués dans la lecture, de la production à la consommation. `éé 0.9`
 
 ## Outils et ingrédients du casse-tête
 

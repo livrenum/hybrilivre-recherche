@@ -9,7 +9,7 @@ baseurl: "https://recherche-livrenum.loupbrun.ca/"
 title: "Journal de recherche LivreNum"
 
 permalinks:
-  journal: journal/:year/:month/:day/:slug
+  journal: journal/:year-:month-:day-:slug
 
 #taxonomies:
 #  journal: Journal

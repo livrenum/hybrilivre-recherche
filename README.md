@@ -54,7 +54,7 @@ L’idée, que j’emprunte à Antoine Fauchié, c’est de concevoir une [chaî
 
 ## La solution (aboutissement de cette ronde de recherche)
 
-*Pour une série de liens et de ressources, notamment d’autres exemples de publications nativement numériques, voir la liste de [liens externes](https://github.com/livrenum/hybrilivre-recherche/blob/master/sources-externes.md).*
+*Pour une série de liens et de ressources, notamment d’autres exemples de publications nativement numériques, voir la liste de [liens externes](https://github.com/livrenum/hybrilivre-recherche/blob/master/contenus/sources-externes.md).*
 
 ![La chaîne de production simplifiée.](images/schema-chaine-production-simplifiee.jpg)  
 *La chaîne de production simplifiée.*

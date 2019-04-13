@@ -1,5 +1,6 @@
 ---
 title: "Entrée du 29 mars 2019: Markdown et Dockieli"
+slug: markdown-dockieli
 date: 2019-03-29
 author: Louis-Olivier Brasard
 ---
